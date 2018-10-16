@@ -1,2 +1,2 @@
 # openstack-exporter
-OpenStack Exporter for Promethues exporter using gophercloud client
+OpenStack Exporter for Promethues using gophercloud client
